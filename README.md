@@ -65,8 +65,6 @@ The dataset contains website visitor information including:
 
 - Website_Performance_Dashboard.pbix
 - website_performance_analytics.csv
-- dashboard.png
+- Dashboard_Screenshot.png
 - README.md
- 
-PGDM (Business Analytics)  
-Aspiring Data Analyst
+
